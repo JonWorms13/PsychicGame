@@ -41,7 +41,7 @@ You must give a full effort on every group and individual project.
 ## Important Links And Notes
 
 
-[Slack Room](UPDATE)
+[Slack Room (UPDATE WITH SLACK LINK HERE)](UPDATE)
 
 
 [Absence Request Form](https://docs.google.com/forms/d/1raQkqL-QjLOEy6CzeC_TXGX-hvKZ3ncrfYYxK9fwREQ/viewform)
@@ -72,7 +72,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	2.1	|	Tue, Jan 31, 2017	|	Going Live with Heroku	|		|
 |	2.2	|	Thu, Feb 2, 2017	|	External CSS Styles	|		|
 |	2.3	|	Sat, Feb 4, 2017	|	Introduction to Bootstrap	|		|
-|	3.1	|	Tue, Feb 7, 2017	|	Intro to Javascript (Variables, Arrays, Alerts)	|		|	
+|	3.1	|	Tue, Feb 7, 2017	|	Intro to Javascript (Variables, Arrays, Alerts)	|		|
 |	3.2	|	Thu, Feb 9, 2017	|	Javascript Cont (Conditionals, For-Loops)	|		|
 |	3.3	|	Sat, Feb 11, 2017	|	Javascript Cont (Functions, Objects)	|		|
 |	4.1	|	Tue, Feb 14, 2017	|	Intro to jQuery	|		|
