@@ -121,19 +121,19 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |	19.1	|	Thu, Jun 1, 2017	|	Intro to React.js	|		|
 |	19.2	|	Sat, Jun 3, 2017	|	React States and Props	|		|
 |	19.3	|	Tue, Jun 6, 2017	|	MERN Stack (Mongo, Express, React, Node)	|		|
-|	20.1	|	Thu, Jun 8, 2017	|	Intro to C#	|		|
-|	20.2	|	Sat, Jun 10, 2017	|	Intro to .NET / ASP	|		|
-|	20.3	|	Tue, Jun 13, 2017	|	.NET / ASP Development	|		|
-|	21.1	|	Thu, Jun 15, 2017	|	React Native	|		|
-|	21.2	|	Sat, Jun 17, 2017	|	React Native	|		|
-|	21.3	|	Tue, Jun 20, 2017	|	React Native / Intro to Project # 3	|		|
-|	22.1	|	Thu, Jun 22, 2017	|	Search & Sort Algorithms  / Project Work	|		|
-|	22.2	|	Sat, Jun 24, 2017	|	Intro to Data Structures / Project Work	|		|
-|	22.3	|	Tue, Jun 27, 2017	|	Intro to Design Patterns / Project Work	|		|
-|	23.1	|	Thu, Jun 29, 2017	|	Three Programming Languages (Ruby)	|		|
-|	23.2	|	Sat, Jul 1, 2017	|	Three Programming Languages (Java)	|		|
+|	20.1	|	Thu, Jun 8, 2017	|	React Native	|		|
+|	20.2	|	Sat, Jun 10, 2017	|	React Native/Intro to Project # 3	|		|
+|	20.3	|	Tue, Jun 13, 2017	|	Intro to C#	|		|
+|	21.1	|	Thu, Jun 15, 2017	|	Intro to .NET / ASP	|		|
+|	21.2	|	Sat, Jun 17, 2017	|	.NET / ASP Development	|		|
+|	21.3	|	Tue, Jun 20, 2017	|	Search & Sort Algorithms  / Project Work	|		|
+|	22.1	|	Thu, Jun 22, 2017	|	Intro to Data Structures / Project Work	|		|
+|	22.2	|	Sat, Jun 24, 2017	|	Intro to Design Patterns / Project Work	|		|
+|	22.3	|	Tue, Jun 27, 2017	|	Three Programming Languages (Ruby)	|		|
+|	23.1	|	Thu, Jun 29, 2017	|	Three Programming Languages (Java)	|		|
+|	23.2	|	Sat, Jul 1, 2017	|	Three Programming Languages (Python, Go, PHP, C#, etc)	|		|
 |		|	Tue, Jul 4, 2017	|	Fourth of July 	|		|
-|	23.3	|	Thu, Jul 6, 2017	|	Three Programming Languages (Python, Go, PHP, C#, etc)	|		|
+|	23.3	|	Thu, Jul 6, 2017	|	Project Work	|		|
 |		|	Sat, Jul 8, 2017	|	Project Work	|		|
 |		|	Tue, Jul 11, 2017	|	Project Work	|		|
 |		|	Thu, Jul 13, 2017	|	Final Project Presentations	|		|
