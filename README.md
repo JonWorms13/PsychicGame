@@ -48,7 +48,7 @@ You must give a full effort on every group and individual project.
 
 
 -----------------------------------------
-
+ 
 
 [Homework Submission](http://bootcampspot.com)
 
@@ -139,7 +139,3 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 |		|	Thu, Jul 13, 2017	|	Final Project Presentations	|		|
 |		|	Sat, Jul 15, 2017	|	Demo Day, TBD	|		|	|
 ----------
-
-
-
-
