@@ -1,10 +1,6 @@
 -----------------------------------------
 # GT Coding Bootcamp
 
-
-#### January 2017 Cohort Curriculum Syllabus
-
-
 -----------------------------------------
 
 
@@ -48,7 +44,7 @@ You must give a full effort on every group and individual project.
 
 
 -----------------------------------------
- 
+
 
 [Homework Submission](http://bootcampspot.com)
 
