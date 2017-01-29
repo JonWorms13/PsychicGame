@@ -12,8 +12,8 @@ In this week, we will be welcoming our students to their first week of our Full-
 * [Build Your Portfolio Page (Recommended Homework)](2-Homework/Instructions/recommended-homework-assignment.md)
 * [Build A Wireframe Layout (Easier Homework)](2-Homework/Instructions/easier-homework-assignment.md)
 
-### Key Activities 
-* [MyFirstHTML](1-Class-Content/1.1/Activities/2-MyFirstHTML)
+### Key Activities
+* [MyFirstHTML](1-Class-Content/1.1/Activities/3-MyFirstHTML)
 * [HTML/CSS Layout](1-Class-Content/1.2/Activities/3-HTML_CSS_Layout)
 * [Float Layout](1-Class-Content/1.3/Activities/3-FloatLayout-Activity)
 * [Position Example](1-Class-Content/1.3/Activities/5-CSS_PositionedLayout)
@@ -28,5 +28,5 @@ In this week, we will be welcoming our students to their first week of our Full-
 
 -------
 
-### Copyright 
+### Copyright
 Coding Boot Camp &copy; 2016. All Rights Reserved.
