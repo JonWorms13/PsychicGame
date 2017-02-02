@@ -5,7 +5,7 @@ In this week, we will be introducing students to live deployments using Heroku. 
 
 ### Slide Shows
 * [2.1 - Going Live](1-Class-Content/2.1/Slide-Shows)
-
+* [2.2 - Down and Dirty CSS](1-Class-Content/2.2/Slide-Shows)
 
 
 ### Homework Activities
@@ -13,7 +13,7 @@ In this week, we will be introducing students to live deployments using Heroku. 
 
 ### Key Activities
 * [Heroku Deployed Site](1-Class-Content/2.1/Activities/3-HerokuDeployedSite)
-
+* [Bootstrap Powered](1-Class-Content/2.2/Activities/4-WheresCSS)
 
 ### Supplemental Resources
 * [Heroku Deployment Guide (Highly Recommended)](1-Class-Content/2.1/Supplemental/HerokuGuide/)
