@@ -8,7 +8,9 @@ In this week we will be introducing students to their first taste of JavaScript.
 
 
 ### Homework Activities
-
+* [Homework Instructions](2-Homework/Instructions/homework-instructions.md)
+* [Hangman Game Demo](2-Homework/Instructions/hangman-game-demo.mov)
+* [Psychic Game Demo](2-Homework/Instructions/psychic-game-demo.mov)
 
 ### Key Activities
 
