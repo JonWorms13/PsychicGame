@@ -5,8 +5,8 @@
 In this week we will be introducing students to their first taste of JavaScript. They will then use their newfound understanding of variables, arrays, loops, and conditionals to create a simple Hangman or Psychic Guessing Game.
 
 ### Slide Shows
-* [3.1 - Lesson Plan](1-Class-Content/3.1/3.1-LessonPlan.md)
-* [3.2 - Lesson Plan](1-Class-Content/3.2/3.2-LessonPlan.md)
+* [3.1 - Joys of JavaScript](1-Class-Content/3.1/Slide-Shows)
+* [3.2 - Jumping for JS](1-Class-Content/3.2/Slide-Shows)
 
 ### Homework Activities
 * [Homework Instructions](2-Homework/Instructions/homework-instructions.md)
