@@ -7,6 +7,7 @@ In this week we will be introducing students to their first taste of JavaScript.
 ### Slide Shows
 * [3.1 - Joys of JavaScript](1-Class-Content/3.1/Slide-Shows)
 * [3.2 - Jumping for JS](1-Class-Content/3.2/Slide-Shows)
+* [3.3 - JS Juggernauts](1-Class-Content/3.3/Slide-shows)
 
 ### Homework Activities
 * [Homework Instructions](2-Homework/Instructions/homework-instructions.md)
@@ -18,6 +19,8 @@ In this week we will be introducing students to their first taste of JavaScript.
 * [3.1 - Conditional](1-Class-Content/3.1/Activities/09-ConditionalActivity)
 * [3.2 - Zoo Loop](1-Class-Content/3.2/Activities/5-ZooLoop)
 * [3.2 - Rock Paper Scissors](1-Class-Content/3.2/Activities/9-RPS-Coded)
+* [3.3 - MyFirst Functions](1-Class-Content/3.3/Activities/3-MyFirstFunctions)
+* [3.3 - Car Game](1-Class-Content/3.3/Activities/8-CarGame)
 
 
 ### Helpful Links
