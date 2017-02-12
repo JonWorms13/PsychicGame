@@ -22,6 +22,9 @@ In this week we will be introducing students to their first taste of JavaScript.
 * [3.3 - MyFirst Functions](1-Class-Content/3.3/Activities/03-MyFirstFunctions)
 * [3.3 - Car Game](1-Class-Content/3.3/Activities/08-CarGame)
 
+### Video Guide
+
+* [Unit 3 Video Guide](VideoGuide.md)
 
 ### Helpful Links
 * [Eloquent JavaScript](http://eloquentjavascript.net/)
