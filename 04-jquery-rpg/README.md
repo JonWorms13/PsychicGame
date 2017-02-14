@@ -6,6 +6,8 @@ In this week we will be introducing students to their first taste of jQuery. In 
 
 ### Slide Shows
 
+* [4.1 - jQuery Begins](1-Class-Content/4.1/Slide-Shows)
+
 
 ### Homework Activities
 
@@ -14,6 +16,10 @@ In this week we will be introducing students to their first taste of jQuery. In 
 
 ### Key Activities
 
+* [JSDrinkList](1-Class-Content/4.1/Activities/2-JSDrinkList)
+* [jQueryDrinkList](1-Class-Content/4.1/Activities/4-jQueryDrinkList)
+* [SandwichClick](1-Class-Content/4.1/Activities/6-SandwichClick)
+* [LotteryGenerator](1-Class-Content/4.1/Activities/8-LotteryGenerator)
 
 ### Helpful Links
 
